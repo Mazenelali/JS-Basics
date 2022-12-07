@@ -7,3 +7,4 @@ let y =document.getElementById("second_number").value
 let a = x*y;
 alert("multiplyi is :" + a);
 }
+document.getElementById("validate").onclick=function() {mutlpile()}
